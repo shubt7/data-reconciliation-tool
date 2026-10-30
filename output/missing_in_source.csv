@@ -1,0 +1,6 @@
+invoice_id,customer_bill,invoice_date_bill,amount_bill
+INV-01201,Globex,2025-06-01,120.0
+INV-01202,Globex,2025-06-01,980.5
+INV-01203,Globex,2025-06-01,45.25
+INV-01204,Globex,2025-06-01,300.0
+INV-01205,Globex,2025-06-01,760.0

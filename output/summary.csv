@@ -1,0 +1,14 @@
+,value
+source_rows,1200.0
+billing_rows,1198.0
+matched_invoices,1160.0
+missing_in_billing,15.0
+missing_in_source,5.0
+amount_mismatches,25.0
+date_mismatches,0.0
+duplicate_rows_in_billing,16.0
+duplicate_rows_in_source,0.0
+unparseable_dates,0.0
+value_in_source,3075343.0
+value_in_billing,3052294.21
+net_value_difference,-23048.79
